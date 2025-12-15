@@ -339,4 +339,4 @@ timestamp,value
 
 作者：庞力铖  	 邮箱：3522236586@qq.com
 
-GitHub仓库：
+GitHub仓库：https://github.com/Plc912/Anomaly_score_Fusion_MCP.git
