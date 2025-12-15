@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "XjTCfr5d-DytJaC-SR1mE": {
+      "name": "Anomaly_score_fusion",
+      "description": "融合多算法异常评分，如重构误差+距离评分，提升稳健性",
+      "baseUrl": "http://127.0.0.1:2250/sse",
+      "command": "",
+      "args": [],
+      "env": {},
+      "isActive": false,
+      "type": "sse"
+    }
+  }
+}
